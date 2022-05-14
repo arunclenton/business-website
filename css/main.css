@@ -33,6 +33,9 @@ header{
     border-radius: 20px;
     font-size: 15px;
 }
+.hero{
+    align-items: center;
+}
 .better h2{
     color: #fff;
     margin-left: 115px;
@@ -70,3 +73,160 @@ header{
      text-decoration: none;
     font-size: 22px;  
 }
+.about h1{
+    color: #37517e;
+    text-align: center;
+    padding: 62px 0px 44px 0px;
+    font-size: 31px;
+
+}
+.sit{
+    display: flex;
+    position: end;
+}
+.ipum{
+    margin-left: 177px ;
+    font-size: 20px;
+}
+.nisi{
+    font-size: 20px;
+    margin-left: 180px;
+}
+.about li{
+    font-size: 17px;
+    margin: 11px 0px 0px 188px;
+}
+.button{
+    color: #5cbbe7;
+    border-color: #5cbbe7;
+    margin-left: 766px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.strong{
+    background-color: beige;
+}
+.velit h2{
+    margin-left: 117px;
+    font-size: 36px;
+}
+.velit p{
+    margin-left: 116px;
+    padding: 16px 0px 19px;
+    font-size: 27px;
+    margin-right: 642x;
+}
+.non h3{
+    margin-left: 113px;
+    padding: 10px 0px 5px 0px;
+    font-size: 20px;
+}
+.non p{
+    margin-left: 114px;
+    margin-right: 657px;
+}
+.display{
+    display: flex;
+}
+.skills{
+    margin-left: 105px;
+}
+.dign h2{
+    margin-left: -106px;
+    padding: 0px 0px 0px 0px;
+    font-size: 32px;
+}
+.dign p{
+    margin-left: -106px;
+    padding: 10px 0px 0px 0px ;
+    font-size: 20px;
+}
+.dign h4{
+    margin-left: -105px;
+    padding-top: 20px;
+}
+.dign h5{
+    margin-left: 443px;;
+}
+.html{
+    margin-left: -105px;
+    width: 100%;
+    background-color: #00090d21;
+    padding: 5px 0px;
+
+}
+.html1{
+    width: 100%;
+    background-color: #37517e;
+}
+.css{
+    margin-left: -105px;
+    width: 100%;
+    background-color: #00090d21;
+    padding: 5px 0px;
+}
+.css1{
+    margin-left: -105px;
+     width: 85%;
+    background-color: #37517e;
+}
+.java{
+    margin-left: -105px;
+    width: 100%;
+    background-color: #00090d21;
+    padding: 5px 0px;
+}
+.java1{
+    width: 65%;
+    background-color: #37517e;
+}
+.photo{
+    margin-left: -105px;
+    width: 100%;
+    background-color: #134d6621;
+    padding: 5px 0px;
+}
+.photo1{
+    width: 50%;
+    background-color: #0b3886;
+}
+.serve h1{
+    text-align: center; 
+    font-size: 32px;
+    padding-bottom: 48px;   
+}
+.serve1 p{
+    margin-left: 147px;
+    margin-right: 244px;
+    font-size: 18px;
+}
+.flex-container{
+    display: flex;
+  flex-wrap: nowrap;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 10px;
+}
+.h31{
+    border: 1px solid;
+    width: 20%;
+    margin: 15px;
+}
+.h32{
+    border: 1px solid;
+    width: 20%;
+    margin: 20px;
+}
+.h33{
+    border: 1px solid;
+    width: 20%;
+    margin: 20px;
+
+}
+.h34{
+    border: 1px solid;
+    width: 20%;
+    margin: 20px;
+
+}
+
