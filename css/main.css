@@ -211,22 +211,195 @@ header{
     border: 1px solid;
     width: 20%;
     margin: 15px;
+    padding: 50px 10px 10px 10px;
 }
 .h32{
     border: 1px solid;
     width: 20%;
     margin: 20px;
+    padding: 50px 10px 10px 10px;
 }
 .h33{
     border: 1px solid;
     width: 20%;
     margin: 20px;
-
+    padding: 50px 10px 10px 10px;
 }
 .h34{
     border: 1px solid;
     width: 20%;
     margin: 20px;
+    padding: 50px 10px 10px 10px;
+}
+.h31 h3{
+    padding-bottom: 10px;
+    color: #0b3886;
+}
+.h32 h3{
+    padding-bottom: 10px;
+    color: #0b3886;
+}
+.h33 h3{
+    padding-bottom: 10px;
+    color: #0b3886;
+}
+.h34 h3{
+    padding-bottom: 10px;
+    color: #0b3886;
+}
+.call{
+    background-color: #0b3886;
+    padding: 75px 375px 75px 145px;
+}
+.call h3{
+    color: #fff;
+    font-size: 20px;
+    padding: 0px 0px 12px 0px;
+}
+.call p{
+    color: #fff;
+    font-size: 15px;
+    padding: 0px 0px 0px 0px;
+}
+.call-1 button{
+    color: #fff;
+    background-color:#0b3886 ;
+    margin: 0px 0px 3px 998px;
+    border-radius: 20px;
+    border-color: #fff;
+}
+.port h2{
+    font-size: 25px;
+    text-align: center;
+    padding: 15px 0px 25px 0px;
+}
+.port p{
+    margin-left: 100px;
+    margin-right: 150px;
+    font-size: 20px;
+}
+.port1{
+    margin-left: 605px;
+    word-spacing: 20px;
+    font-size: 20px;
+    padding: 13px 0px 0px 0px;
+}
+.port1 a{
+    text-decoration: none;
+}
+.team h3{
+    text-align: center;
+    font-size: 25px;
+    padding: 15px 0px 20px 0px;
+}
+.team1 p{
+    margin-left: 159px;
+    margin-right: 120px;
+}
+.flex-container{
+    display: flex;
+    margin-left: 100px;
+}
+.flex-container1{
+    display: flex;
+    margin-left: 100px;
+}
+.white{
+    border: 1px solid;
+    margin-right: 164px;
+    padding:65px 30px 65px 30px;
+}
+.red{
+    border: 1px solid;
+    margin-left: 0px;
+    padding:65px 30px 65px 30px;
 
 }
+.black{
+    border: 1px solid;
+    margin-right: 164px;
+    padding:65px 30px 65px 30px;
+
+}
+.pink{
+    border: 1px solid;
+    margin-left: 0px;
+    padding:65px 30px 65px 30px;
+}
+.team h4{
+    margin-left: 212px;
+    font-size: 22px;
+    color: #37517e;
+}
+.team h5{
+    margin-left: 220px;
+    font-size: 18px;
+}
+.team p{
+    margin-left: 220px;
+    padding-top: 10px;
+}
+.ico1{
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.ico2{
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.ico3{
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.ico4{
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.price h3{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 25px;
+color: blue;
+}
+.price p{
+    margin-left: 150px;
+    margin-right: 100px;
+    font-size: 18px;
+}
+.free{
+    border: 1px solid;
+    margin-left: 60px;
+    padding: 16px 55px 18px 37px;
+}
+.busi{
+    border: 1px solid;
+    margin-left: 60px;
+    padding: 16px 55px 18px 37px;
+}
+.plan{
+    border: 1px solid;
+    margin-left: 60px;
+    padding: 16px 55px 18px 37px;
+}
+.price h4{
+    margin-left: 59px;
+    padding: 0px 0px 10px 0px;
+    font-size: 25px;
+}
+.price h5{
+    margin-left: 43px;
+    padding: 0px 0px 10px 0px;
+    color: #37517e;
+}
+.price h6{
+margin-left: ;
+line-height: 30px;
+
+}
+.price button{
+    margin: 70px 5px 1px 73px;
+}
+
+
 
