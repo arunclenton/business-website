@@ -400,6 +400,107 @@ line-height: 30px;
 .price button{
     margin: 70px 5px 1px 73px;
 }
-
+.asked h2{
+text-align: center;
+margin: 0px 0px 15px 0px;
+font-size: 25px;
+}
+.asked p{
+    margin-left: 150px;
+    margin-right: 100px;
+    padding-bottom: 20px;
+}
+.non1 h4{
+    margin-left: 100px;
+    color: #5cbbe7;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.non2 h4{
+margin-left: 100px;
+color: #5cbbe7;
+font-size: 20px;
+margin-bottom: 10px;
+}
+.non3 h4{
+    margin-left: 100px;
+    color: #5cbbe7;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.non4 h4{
+    margin-left: 100px;
+    color: #5cbbe7;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.non5 h4{
+    margin-left: 100px;
+    color: #5cbbe7;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.non1 p{
+margin-left: 120px;
+margin-right: 220px;
+font-size: 18px;
+padding-bottom: 10px;
+}
+.non2 p{
+    margin-left: 120px;
+    margin-right: 220px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.non3 p{
+    margin-left: 120px;
+    margin-right: 220px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.non4 p{
+    margin-left: 120px;
+    margin-right: 220px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.non5 p{
+    margin-left: 120px;
+    margin-right: 220px;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+.con h2{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.con p{
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.location{
+    display: flex;
+    margin-left: 100px;
+}
+.loca1{
+    border: 1px solid;
+    margin-left: 100px;
+    padding: 60px 30px 80px 27px;
+}
+.loca2{
+    border: 1px solid;
+    margin-left: 170px;
+    padding: 60px 30px 80px 170px;
+}
+.loca1 h4{
+    font-size: 20px;
+    color: #37517e;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 
 
