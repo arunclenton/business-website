@@ -73,6 +73,9 @@ header{
      text-decoration: none;
     font-size: 22px;  
 }
+.img1 a{
+    word-spacing: 20px;
+}
 .about h1{
     color: #37517e;
     text-align: center;
@@ -94,7 +97,8 @@ header{
 }
 .about li{
     font-size: 17px;
-    margin: 11px 0px 0px 188px;
+    margin: 11px 0px
+     0px 188px;
 }
 .button{
     color: #5cbbe7;
@@ -303,6 +307,7 @@ header{
 .flex-container1{
     display: flex;
     margin-left: 100px;
+    padding: 50px 0px 0px 0px
 }
 .white{
     border: 1px solid;
@@ -480,7 +485,7 @@ padding-bottom: 10px;
     margin-left: 150px;
     margin-right: 150px;
     font-size: 18px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 .location{
     display: flex;
@@ -493,8 +498,8 @@ padding-bottom: 10px;
 }
 .loca2{
     border: 1px solid;
-    margin-left: 170px;
-    padding: 60px 30px 80px 170px;
+    margin-left: 90px;
+    padding: 60px 30px 80px 15px;
 }
 .loca1 h4{
     font-size: 20px;
@@ -502,5 +507,113 @@ padding-bottom: 10px;
     padding-top: 20px;
     padding-bottom: 10px;
 }
-
-
+.arun{
+    display: flex;
+    margin-left: -10px;
+}
+.input1{
+margin: 0px 0px 0px 0px;
+}
+.input2{
+    margin: 0px 0px 0px 0px;
+}
+.input3{
+    margin: 0px 0px 0px 0px;
+}
+.input4{
+    margin: 0px 0px 0px 0px;
+}
+.sand button{
+    margin: 149px 0px 0px 218px;
+}
+.join h3{
+    text-align: center;
+    padding: 30px 0px 19px 0px;
+    font-size: 30px;
+}
+.join p{
+    margin: 0px 0px 0px  429px;
+}
+.join1{
+    width: 40%;
+    background-color: #cccccc;
+    padding: 20px 0px 15px 2px;
+    margin: 25px 0px 0px 283px;
+}
+.join3{
+    display: flex;
+}
+.join button{
+    margin: 23px 0px 0px -10px;
+    font-size: 20px;
+    border-radius: 18px;
+    background-color: blue;
+    color: #fff;
+    border-bottom-color: #fff;
+    border-color: #fff;
+}
+.arsha0{
+    display: flex;
+    padding-top: 50px;
+    border: 1px solid;
+    margin-top: 50px;
+    padding-bottom: 60px;
+}
+.arsha{
+    margin: 0px 30px 0px 50px;
+}
+.arsha h3{
+    font-size: 20px;
+    color: #0b3886;
+    padding: 0px 0px 13px 0px;
+}
+.arsha h4{
+    font-size: 17px;
+    padding-top: 7px;
+}
+.arsha h5{
+    margin: 10px;
+    font-size: 18px;
+}
+.arsha1{
+    margin: 0px 30px 0px 50px;
+}
+.arsha1 h3{
+    font-size:20px;
+    padding-bottom: 20px;
+    color: #37517e;
+}
+.arsha1 h6{
+    font-size: 18px;
+    line-height: 35px;
+}
+.arsha2{
+    margin: 0px 30px 0px 50px;
+}
+.arsha2 h3{
+    font-size:20px;
+    padding-bottom: 20px;
+    color: #37517e;
+}
+.arsha2 h6{
+    font-size: 18px;
+    line-height: 35px;
+}
+.arsha3{
+    margin: 0px 30px 0px 50px;
+}
+.arsha3 h3{
+    font-size:20px;
+    padding-bottom: 20px;
+    color: #37517e;
+}
+.arsha3 p{
+    font-size: 18px;
+   margin-right: 191px;
+}
+.ifont{
+    font-size: 23px;
+    word-spacing: 10px;
+    padding-top: 20px;
+    margin: 0px 0px 0px 167px
+}
