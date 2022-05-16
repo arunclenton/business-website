@@ -24,6 +24,9 @@ header{
     text-decoration: none;
 
 }
+.head{
+    display: flex;
+}
 .right button{
     width: 119px;
     height: 29px;
@@ -108,11 +111,12 @@ header{
     font-size: 20px;
 }
 .strong{
-    background-color: beige;
+    background-color:#f3f5fa;;
 }
 .velit h2{
     margin-left: 117px;
     font-size: 36px;
+    color: #0b3886;
 }
 .velit p{
     margin-left: 116px;
@@ -139,6 +143,7 @@ header{
     margin-left: -106px;
     padding: 0px 0px 0px 0px;
     font-size: 32px;
+    color: #0b3886;
 }
 .dign p{
     margin-left: -106px;
@@ -194,10 +199,14 @@ header{
     width: 50%;
     background-color: #0b3886;
 }
+.serve{
+    background-color:#f3f5fa;;
+}
 .serve h1{
     text-align: center; 
     font-size: 32px;
-    padding-bottom: 48px;   
+    padding-bottom: 48px; 
+    color: #0b3886;  
 }
 .serve1 p{
     margin-left: 147px;
@@ -215,25 +224,25 @@ header{
     border: 1px solid;
     width: 20%;
     margin: 15px;
-    padding: 50px 10px 10px 10px;
+    padding: 90px 10px 10px 10px;
 }
 .h32{
     border: 1px solid;
     width: 20%;
     margin: 20px;
-    padding: 50px 10px 10px 10px;
+    padding: 90px 10px 10px 10px;
 }
 .h33{
     border: 1px solid;
     width: 20%;
     margin: 20px;
-    padding: 50px 10px 10px 10px;
+    padding: 90px 10px 10px 10px;
 }
 .h34{
     border: 1px solid;
     width: 20%;
     margin: 20px;
-    padding: 50px 10px 10px 10px;
+    padding: 90px 10px 10px 10px;
 }
 .h31 h3{
     padding-bottom: 10px;
@@ -276,6 +285,7 @@ header{
     font-size: 25px;
     text-align: center;
     padding: 15px 0px 25px 0px;
+    color: #0b3886;
 }
 .port p{
     margin-left: 100px;
@@ -291,10 +301,14 @@ header{
 .port1 a{
     text-decoration: none;
 }
+.team{
+    background-color: #f3f5fa;
+}
 .team h3{
     text-align: center;
     font-size: 25px;
     padding: 15px 0px 20px 0px;
+    color: #0b3886;
 }
 .team1 p{
     margin-left: 159px;
@@ -405,10 +419,14 @@ line-height: 30px;
 .price button{
     margin: 70px 5px 1px 73px;
 }
+.asked1{
+    background-color:#f3f5fa;
+}
 .asked h2{
 text-align: center;
 margin: 0px 0px 15px 0px;
 font-size: 25px;
+color: #0b3886;
 }
 .asked p{
     margin-left: 150px;
@@ -480,6 +498,7 @@ padding-bottom: 10px;
     font-size: 25px;
     padding-top: 25px;
     padding-bottom: 25px;
+    color: #0b3886;
 }
 .con p{
     margin-left: 150px;
@@ -524,12 +543,20 @@ margin: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
 }
 .sand button{
-    margin: 149px 0px 0px 218px;
+   margin: 158px 0px 0px 218px;
+    font-size: 23px;
+    border-radius: 30px;
+    background-color: #37517e;
+    color: #fff;
+}
+.join{
+    background-color: #f3f5fa;
 }
 .join h3{
     text-align: center;
     padding: 30px 0px 19px 0px;
     font-size: 30px;
+    color: #0b3886;
 }
 .join p{
     margin: 0px 0px 0px  429px;
