@@ -111,7 +111,8 @@ header{
     font-size: 20px;
 }
 .strong{
-    background-color:#f3f5fa;;
+    background-color:#f3f5fa;
+    padding: 35px 0px 35px 0px;
 }
 .velit h2{
     margin-left: 117px;
@@ -124,17 +125,40 @@ header{
     font-size: 27px;
     margin-right: 642x;
 }
+.dolor1{
+border: 1px solid;
+background-color: #fff;
+margin: 0px 650px 0px 115px;
+margin-bottom: 20px;
+border-color: #fff;
+}
+.dolor2{
+    border: 1px solid;
+    background-color: #fff;
+    margin: 0px 650px 0px 115px;
+    margin-bottom: 20px;
+    border-color: #fff;
+}
+.dolor3{
+    border: 1px solid;
+    background-color: #fff;
+    margin: 0px 650px 0px 115px;
+    margin-bottom: 20px;
+    border-color: #fff;
+}
 .non h3{
-    margin-left: 113px;
+    margin-left: 70px;
     padding: 10px 0px 5px 0px;
     font-size: 20px;
+    color: #47b2e4;
 }
 .non p{
-    margin-left: 114px;
-    margin-right: 657px;
+    margin-left: 72px;
+    margin-right: 75px;
 }
 .display{
     display: flex;
+    padding: 35px 0px 35px 0px;
 }
 .skills{
     margin-left: 105px;
@@ -200,7 +224,8 @@ header{
     background-color: #0b3886;
 }
 .serve{
-    background-color:#f3f5fa;;
+    background-color:#f3f5fa;
+    padding: 15px 0px 0px 0px;
 }
 .serve h1{
     text-align: center; 
@@ -225,24 +250,28 @@ header{
     width: 20%;
     margin: 15px;
     padding: 90px 10px 10px 10px;
+    background-color: #fff;
 }
 .h32{
     border: 1px solid;
     width: 20%;
     margin: 20px;
     padding: 90px 10px 10px 10px;
+    background-color: #fff;
 }
 .h33{
     border: 1px solid;
     width: 20%;
     margin: 20px;
     padding: 90px 10px 10px 10px;
+    background-color: #fff;
 }
 .h34{
     border: 1px solid;
     width: 20%;
     margin: 20px;
     padding: 90px 10px 10px 10px;
+    background-color: #fff;
 }
 .h31 h3{
     padding-bottom: 10px;
@@ -261,23 +290,25 @@ header{
     color: #0b3886;
 }
 .call{
-    background-color: #0b3886;
-    padding: 75px 375px 75px 145px;
+   background-color: #0b3886;
+    padding: 150px 0px 150px 0px;
 }
 .call h3{
-    color: #fff;
-    font-size: 20px;
-    padding: 0px 0px 12px 0px;
+     color: #fff;
+    font-size: 30px;
+    margin:-50px 0px 10px 185px;
 }
 .call p{
     color: #fff;
-    font-size: 15px;
-    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    margin: 0px 369px 0px 191px;
 }
 .call-1 button{
     color: #fff;
+    font-size: 20px;
     background-color:#0b3886 ;
-    margin: 0px 0px 3px 998px;
+    margin: -40px 0px -98px 1025px;
+    padding: 15px 25px 15px 25px;
     border-radius: 20px;
     border-color: #fff;
 }
@@ -303,6 +334,7 @@ header{
 }
 .team{
     background-color: #f3f5fa;
+    padding: 15px 0px 35px 0px;
 }
 .team h3{
     text-align: center;
@@ -327,23 +359,25 @@ header{
     border: 1px solid;
     margin-right: 164px;
     padding:65px 30px 65px 30px;
+    background-color: #fff;
 }
 .red{
     border: 1px solid;
     margin-left: 0px;
     padding:65px 30px 65px 30px;
-
+    background-color: #fff;
 }
 .black{
     border: 1px solid;
     margin-right: 164px;
     padding:65px 30px 65px 30px;
-
+    background-color: #fff;
 }
 .pink{
     border: 1px solid;
     margin-left: 0px;
     padding:65px 30px 65px 30px;
+    background-color: #fff;
 }
 .team h4{
     margin-left: 212px;
@@ -386,6 +420,10 @@ color: blue;
     margin-right: 100px;
     font-size: 18px;
 }
+.flex-container0{
+    display: flex;
+    padding: 80px 0px 50px 0px;
+}
 .free{
     border: 1px solid;
     margin-left: 60px;
@@ -400,6 +438,7 @@ color: blue;
     border: 1px solid;
     margin-left: 60px;
     padding: 16px 55px 18px 37px;
+    margin-right: ;
 }
 .price h4{
     margin-left: 59px;
@@ -416,82 +455,124 @@ margin-left: ;
 line-height: 30px;
 
 }
-.price button{
+.price button {
     margin: 70px 5px 1px 73px;
+    font-size: 17px;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    background-color: #fff;
+    color: #0b3886;
+    border-color: #0b3886;
 }
 .asked1{
     background-color:#f3f5fa;
+    padding-bottom: 35px;
+    padding-top: 35px;
 }
 .asked h2{
 text-align: center;
 margin: 0px 0px 15px 0px;
 font-size: 25px;
-color: #0b3886;
+color: #47b2e4;
 }
 .asked p{
     margin-left: 150px;
     margin-right: 100px;
     padding-bottom: 20px;
 }
+.non1{
+border: 1px solid;
+margin: 0px 242px 20px 200px;
+background-color: #fff;
+border-color: #fff;
+
+}
+.non2{
+    border: 1px solid;
+    margin: 0px 242px 20px 200px;
+    background-color: #fff;
+    border-color: #fff;
+}
+.non3{
+    border: 1px solid;
+    margin: 0px 242px 20px 200px;
+    background-color: #fff;
+    border-color: #fff;
+}
+.non4{
+    border: 1px solid;
+    margin: 0px 242px 20px 200px;
+    background-color: #fff;
+    border-color: #fff;
+}
+.non5{
+    border: 1px solid;
+    margin: 0px 242px 20px 200px;
+    background-color: #fff;
+    border-color: #fff;
+}
 .non1 h4{
-    margin-left: 100px;
+    margin-left: 15px;
     color: #5cbbe7;
     font-size: 20px;
     margin-bottom: 10px;
 }
 .non2 h4{
-margin-left: 100px;
+margin-left: 15px;
 color: #5cbbe7;
 font-size: 20px;
 margin-bottom: 10px;
 }
 .non3 h4{
-    margin-left: 100px;
+    margin-left: 15px;
     color: #5cbbe7;
     font-size: 20px;
     margin-bottom: 10px;
 }
 .non4 h4{
-    margin-left: 100px;
+    margin-left: 15px;
     color: #5cbbe7;
     font-size: 20px;
     margin-bottom: 10px;
 }
 .non5 h4{
-    margin-left: 100px;
+    margin-left: 15px;
     color: #5cbbe7;
     font-size: 20px;
     margin-bottom: 10px;
 }
 .non1 p{
-margin-left: 120px;
-margin-right: 220px;
+margin-left: 25px;
+margin-right: 100px;
 font-size: 18px;
 padding-bottom: 10px;
 }
 .non2 p{
-    margin-left: 120px;
-    margin-right: 220px;
+    margin-left: 25px;
+    margin-right: 100px;
     font-size: 18px;
     padding-bottom: 10px;
 }
 .non3 p{
-    margin-left: 120px;
-    margin-right: 220px;
+    margin-left: 25px;
+    margin-right: 100px;
     font-size: 18px;
     padding-bottom: 10px;
 }
 .non4 p{
-    margin-left: 120px;
-    margin-right: 220px;
+    margin-left: 25px;
+    margin-right: 100px;
     font-size: 18px;
     padding-bottom: 10px;
 }
 .non5 p{
-    margin-left: 120px;
-    margin-right: 220px;
+    margin-left: 25px;
+    margin-right: 100px;
     font-size: 18px;
     padding-bottom: 10px;
+}
+.con{
+    padding: 15px 0px 35px 0px;
 }
 .con h2{
     text-align: center;
@@ -549,8 +630,8 @@ margin: 0px 0px 0px 0px;
     background-color: #37517e;
     color: #fff;
 }
-.join{
-    background-color: #f3f5fa;
+.join0{
+background-color: #f3f5fa;
 }
 .join h3{
     text-align: center;
@@ -585,6 +666,7 @@ margin: 0px 0px 0px 0px;
     border: 1px solid;
     margin-top: 50px;
     padding-bottom: 60px;
+    background-color: #fff;
 }
 .arsha{
     margin: 0px 30px 0px 50px;
@@ -643,4 +725,26 @@ margin: 0px 0px 0px 0px;
     word-spacing: 10px;
     padding-top: 20px;
     margin: 0px 0px 0px 167px
+}
+.footer{
+    display: flex;
+  background-color: #37517e;
+  padding: 40px 0px 40px 0px;
+}
+.copy{
+    color: #fff;
+    font-size: 20px;
+}
+.copy1{
+    color: #fff;
+    font-size: 18px;
+}
+.copy2{
+    margin-left: 717px;
+    color: #fff;
+    font-size: 18px;
+}
+.copy2 a{
+    color: blue;
+    font-size: 20px;
 }
