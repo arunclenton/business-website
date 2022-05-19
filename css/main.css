@@ -92,10 +92,15 @@ header{
 
 }
 .about h2{
-
+    border: 1px solid rgb(195, 195, 228);
+    width: 8%;
+    margin: -26px 0px 0px 615px;
 }
 .about h3{
-    
+    border: 1px solid blue;
+    width: 3%;
+    margin: -3px 0px 0px 647px;
+    border-radius: 169px;
 }
 
 .sit{
@@ -105,6 +110,7 @@ header{
 .ipum{
     margin-left: 177px ;
     font-size: 19px;
+    padding: 38px 0px 16px 0px;
 }
 .ipum p{
     width: 450px;
@@ -112,6 +118,7 @@ header{
 .nisi{
     font-size: 20px;
     margin-left: 56px;
+    padding: 38px 0px 16px 0px;
 }
 .commed{
     display: flex;
@@ -246,6 +253,17 @@ border-color: #fff;
     background-color:#f3f5fa;
     padding: 15px 0px 0px 0px;
 }
+.serve h2{
+    border: 1px solid rgb(195, 195, 228);
+    width: 8%;
+    margin: -40px 0px 0px 615px;
+}
+.serve h3{
+    border: 1px solid blue;
+    width: 3%;
+    margin: -3px 0px 0px 647px;
+    border-radius: 169px;
+}
 .serve h1{
     text-align: center; 
     font-size: 32px;
@@ -256,6 +274,7 @@ border-color: #fff;
     margin-left: 147px;
     margin-right: 244px;
     font-size: 18px;
+    padding: 20px 0px 0px 0px;
 }
 .flex-container{
     display: flex;
@@ -270,6 +289,7 @@ border-color: #fff;
     margin: 15px;
     padding: 90px 10px 60px 0px;
     background-color: #fff;
+    border: 1px solid #fff;
 }
 .h32{
     border: 1px solid;
@@ -277,6 +297,7 @@ border-color: #fff;
     margin: 20px;
     padding: 90px 10px 60px 10px;
     background-color: #fff;
+    border: 1px solid #fff;
 }
 .h33{
     border: 1px solid;
@@ -284,6 +305,7 @@ border-color: #fff;
     margin: 20px;
     padding: 90px 10px 60px 10px;
     background-color: #fff;
+    border: 1px solid #fff;
 }
 .h34{
     border: 1px solid;
@@ -291,23 +313,24 @@ border-color: #fff;
     margin: 20px;
     padding: 90px 10px 60px 10px;
     background-color: #fff;
+    border: 1px solid #fff;
 }
-.h31 h3{
+.h31 h4{
     padding-bottom: 10px;
     color: #0b3886;
     margin-left: 15px;
 }
-.h32 h3{
+.h32 h4{
     padding-bottom: 10px;
     color: #0b3886;
     margin-left: 15px;
 }
-.h33 h3{
+.h33 h4{
     padding-bottom: 10px;
     color: #0b3886;
     margin-left: 15px;
 }
-.h34 h3{
+.h34 h4{
     padding-bottom: 10px;
     color: #0b3886;
     margin-left: 15px;
@@ -342,6 +365,20 @@ border-color: #fff;
     border-radius: 20px;
     border: 1px solid #fff;
 }
+.port{
+    padding: 20px 0px 30px 0px;
+}
+.port h3{
+    border: 1px solid rgb(195, 195, 228);
+    width: 8%;
+    margin: -17px 0px 0px 615px;
+}
+ .port h4{
+    border: 1px solid blue;
+    width: 3%;
+    margin: -3px 0px 0px 647px;
+    border-radius: 169px;
+}
 .port h2{
     font-size: 25px;
     text-align: center;
@@ -352,6 +389,7 @@ border-color: #fff;
     margin-left: 100px;
     margin-right: 150px;
     font-size: 20px;
+    padding-top: 20px;
 }
 .port1{
     margin-left: 605px;
@@ -422,6 +460,17 @@ display: flex;
     background-color: #f3f5fa;
     padding: 15px 0px 35px 0px;
 }
+.team h2{
+    border: 1px solid rgb(195, 195, 228);
+    width: 5%;
+    margin: -12px 0px 0px 640px;
+}
+.team h6{
+    border: 1px solid blue;
+    width: 2%;
+    margin: -3px 0px 0px 658px;
+    border-radius: 169px;
+}
 .team h3{
     text-align: center;
     font-size: 25px;
@@ -431,6 +480,7 @@ display: flex;
 .team1 p{
     margin-left: 159px;
     margin-right: 120px;
+    margin-top: 10px;
 }
 .flex-container{
     display: flex;
@@ -441,42 +491,71 @@ display: flex;
     margin-left: 100px;
     padding: 50px 0px 0px 0px
 }
+.teamimg1{
+    width: 30%;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px 0px -118px;
+    border-radius: 152px;
+}
+.teamimg2{
+    width: 30%;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px 0px -118px;
+    border-radius: 152px;
+}
+.teamimg3{
+    width: 30%;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px 0px -118px;
+    border-radius: 152px;
+}
+.teamimg4{
+    width: 30%;
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px 0px -118px;
+    border-radius: 152px;
+}
 .white{
-    border: 1px solid;
-    margin-right: 164px;
-    padding:65px 30px 65px 30px;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    padding: 65px 28px 65px 30px;
     background-color: #fff;
+   
 }
 .red{
-    border: 1px solid;
-    margin-left: 0px;
-    padding:65px 30px 65px 30px;
+    border: 1px solid #fff;
+    margin-right: 164px;
+    padding:65px 28px 65px 30px;
     background-color: #fff;
+    
 }
 .black{
-    border: 1px solid;
-    margin-right: 164px;
-    padding:65px 30px 65px 30px;
+    border: 1px solid #fff;
+    margin-right: 56px;
+    padding: 65px 28px 65px 30px;
     background-color: #fff;
 }
 .pink{
-    border: 1px solid;
-    margin-left: 0px;
-    padding:65px 30px 65px 30px;
+    border: 1px solid #fff;
+    margin-right: 0px;
+    padding:65px 28px 65px 30px;
     background-color: #fff;
 }
 .team h4{
-    margin-left: 212px;
     font-size: 22px;
     color: #37517e;
+    margin: -79px 0px 0px 248px;
+    padding: 0px 0px 10px 0px
 }
 .team h5{
-    margin-left: 220px;
+    margin-left: 248px;
     font-size: 18px;
+    padding: 6px 0px;
 }
 .team p{
-    margin-left: 220px;
+    margin-left: 249px;
     padding-top: 10px;
+    margin-right: 54px;
 }
 .ico1{
     margin-left: 250px;
@@ -501,10 +580,22 @@ display: flex;
     font-size: 25px;
 color: blue;
 }
+.price h1{
+    border: 1px solid rgb(195, 195, 228);
+    width: 5%;
+    margin: -16px 0px 0px 640px;
+}
+.price h2{
+    border: 1px solid blue;
+    width: 2%;
+    margin: -3px 0px 0px 658px;
+    border-radius: 169px;
+}
 .price p{
     margin-left: 150px;
     margin-right: 100px;
     font-size: 18px;
+    margin-top: 15px;
 }
 .flex-container0{
     display: flex;
@@ -548,7 +639,7 @@ line-height: 30px;
     padding: 5px 10px 5px 10px;
     background-color: #fff;
     color: #0b3886;
-    border-color: #0b3886;
+    border:  1px solid #94daff;
 }
 .asked1{
     background-color:#f3f5fa;
@@ -660,6 +751,17 @@ padding-bottom: 10px;
 .con{
     padding: 15px 0px 35px 0px;
 }
+ .con h1{
+    border: 1px solid rgb(195, 195, 228);
+    width: 5%;
+    margin: -16px 0px 0px 640px;
+}
+.con h3{
+    border: 1px solid blue;
+    width: 2%;
+    margin: -3px 0px 0px 658px;
+    border-radius: 169px;
+}
 .con h2{
     text-align: center;
     font-size: 25px;
@@ -672,6 +774,7 @@ padding-bottom: 10px;
     margin-right: 150px;
     font-size: 18px;
     padding-bottom: 50px;
+    margin-top: 15px;
 }
 .location{
     display: flex;
@@ -699,6 +802,12 @@ padding-bottom: 10px;
 }
 .input1{
 margin: 0px 0px 0px 0px;
+}
+.input1 label{
+    
+}
+.input1 label{
+    margin: 0px 0px 0px 0px;
 }
 .input2{
     margin: 0px 0px 0px 0px;
@@ -733,26 +842,30 @@ background-color: #f3f5fa;
     background-color: #cccccc;
     padding: 20px 0px 15px 2px;
     margin: 25px 0px 0px 283px;
+    border: 1px solid;
+    border-radius: 50px;
+    border: 1px solid #cccccc;
 }
 .join3{
     display: flex;
 }
 .join button{
-    margin: 23px 0px 0px -10px;
+    margin: 23px 0px 0px -33px;
     font-size: 20px;
     border-radius: 18px;
     background-color: blue;
     color: #fff;
     border-bottom-color: #fff;
-    border-color: #fff;
+    border: 1px solid #fff;
 }
 .arsha0{
     display: flex;
+    flex-wrap: nowrap;
     padding-top: 50px;
     border: 1px solid;
     margin-top: 50px;
     padding-bottom: 60px;
-    background-color: #fff;
+    background-color: #f3f5fa;
 }
 .arsha{
     margin: 0px 30px 0px 50px;
@@ -771,7 +884,8 @@ background-color: #f3f5fa;
     font-size: 18px;
 }
 .arsha1{
-    margin: 0px 30px 0px 50px;
+    margin: 0px 30px 0px 78px;
+    width: 20%;
 }
 .arsha1 h3{
     font-size:20px;
@@ -783,7 +897,8 @@ background-color: #f3f5fa;
     line-height: 35px;
 }
 .arsha2{
-    margin: 0px 30px 0px 50px;
+    margin: 0px 30px 0px 66px;
+    width: 30%;
 }
 .arsha2 h3{
     font-size:20px;
@@ -804,7 +919,7 @@ background-color: #f3f5fa;
 }
 .arsha3 p{
     font-size: 18px;
-   margin-right: 191px;
+   margin-right: 40px;
 }
 .ifont{
     font-size: 23px;
@@ -833,4 +948,32 @@ background-color: #f3f5fa;
 .copy2 a{
     color: blue;
     font-size: 20px;
+}
+.icofont-twitter{
+    color: #fff;
+    font-size: 25px;
+    background-color: #0b3886;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.705);
+}
+.icofont-facebook{
+    color: #fff;
+    font-size: 25px;
+    background-color: #0b3886;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.705);
+}
+.icofont-instagram{
+    color: #fff;
+    font-size: 25px;
+    background-color: #0b3886;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.705);
+}
+.icofont-linkedin{
+    color: #fff;
+    font-size: 25px;
+    background-color: #0b3886;
+    border-radius: 25px;
+    border: 1px solid rgba(255, 255, 255, 0.705);
 }
