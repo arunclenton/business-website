@@ -76,6 +76,9 @@ header{
      text-decoration: none;
     font-size: 22px;  
 }
+.hero img{
+width: 580px;
+}
 .img1 img{
     word-spacing: 20px;
     width: 103px;
@@ -91,12 +94,12 @@ header{
     font-size: 31px;
 
 }
-.about h2{
+.about .h2{
     border: 1px solid rgb(195, 195, 228);
     width: 8%;
     margin: -26px 0px 0px 615px;
 }
-.about h3{
+.about .h3{
     border: 1px solid blue;
     width: 3%;
     margin: -3px 0px 0px 647px;
@@ -187,32 +190,33 @@ border-color: #fff;
     padding: 35px 0px 35px 0px;
 }
 .skills{
-    margin-left: 105px;
+    margin-left: 10px;
+}
+.skills img{
+    width: 630px;
 }
 .dign h2{
-    margin-left: -106px;
+    margin-left: 35px;
     padding: 0px 0px 0px 0px;
     font-size: 32px;
     color: #0b3886;
 }
 .dign p{
-    margin-left: -106px;
+    margin-left: 35px;
     padding: 10px 0px 0px 0px ;
     font-size: 20px;
 }
 .dign h4{
-    margin-left: -105px;
+    margin-left: 35px;
     padding-top: 20px;
 }
 .dign h5{
-    margin-left: 443px;;
+    margin-left: 567px;;
 }
 .html{
-    margin-left: -105px;
-    width: 100%;
+    margin-left: 35px;
+    width: 80%;
     background-color: #00090d21;
-    
-
 }
 .html1{
     width: 100%;
@@ -220,28 +224,28 @@ border-color: #fff;
     padding: 5px 0px 5px 0px;
 }
 .css{
-    margin-left: -105px;
-    width: 100%;
+    margin-left: 35px;
+    width: 80%;
     background-color: #00090d21;
 }
 .css1{
-     width: 85%;
+     width: 80%;
      background-color: #37517e;
      padding: 5px 0px 5px 0px;
 }
 .java{
-    margin-left: -105px;
-    width: 100%;
+    margin-left: 35px;
+    width: 80%;
     background-color: #00090d21;
 }
 .java1{
-    width: 65%;
+    width: 60%;
     background-color: #37517e;
     padding: 5px 0px 5px 0px;
 }
 .photo{
-    margin-left: -105px;
-    width: 100%;
+    margin-left: 35px;
+    width: 80%;
     background-color: #134d6621;
 }
 .photo1{
@@ -253,12 +257,12 @@ border-color: #fff;
     background-color:#f3f5fa;
     padding: 15px 0px 0px 0px;
 }
-.serve h2{
+.serve .h2{
     border: 1px solid rgb(195, 195, 228);
     width: 8%;
     margin: -40px 0px 0px 615px;
 }
-.serve h3{
+.serve .h3{
     border: 1px solid blue;
     width: 3%;
     margin: -3px 0px 0px 647px;
@@ -368,12 +372,12 @@ border-color: #fff;
 .port{
     padding: 20px 0px 30px 0px;
 }
-.port h3{
+.port .h3{
     border: 1px solid rgb(195, 195, 228);
     width: 8%;
     margin: -17px 0px 0px 615px;
 }
- .port h4{
+ .port .h4{
     border: 1px solid blue;
     width: 3%;
     margin: -3px 0px 0px 647px;
@@ -460,12 +464,12 @@ display: flex;
     background-color: #f3f5fa;
     padding: 15px 0px 35px 0px;
 }
-.team h2{
+.team .h2{
     border: 1px solid rgb(195, 195, 228);
     width: 5%;
     margin: -12px 0px 0px 640px;
 }
-.team h6{
+.team .h6{
     border: 1px solid blue;
     width: 2%;
     margin: -3px 0px 0px 658px;
@@ -580,12 +584,12 @@ display: flex;
     font-size: 25px;
 color: blue;
 }
-.price h1{
+.price .h1{
     border: 1px solid rgb(195, 195, 228);
     width: 5%;
     margin: -16px 0px 0px 640px;
 }
-.price h2{
+.price .h2{
     border: 1px solid blue;
     width: 2%;
     margin: -3px 0px 0px 658px;
@@ -605,6 +609,7 @@ color: blue;
     border: 1px solid;
     margin-left: 60px;
     padding: 16px 55px 18px 37px;
+    border: 1px solid #fff;
 }
 .busi{
     border: 1px solid;
@@ -628,7 +633,7 @@ color: blue;
     color: #37517e;
 }
 .price h6{
-margin-left: ;
+margin-left: 30px;
 line-height: 30px;
 
 }
@@ -751,12 +756,12 @@ padding-bottom: 10px;
 .con{
     padding: 15px 0px 35px 0px;
 }
- .con h1{
+ .code1{
     border: 1px solid rgb(195, 195, 228);
     width: 5%;
     margin: -16px 0px 0px 640px;
 }
-.con h3{
+.code2{
     border: 1px solid blue;
     width: 2%;
     margin: -3px 0px 0px 658px;
@@ -796,27 +801,42 @@ padding-bottom: 10px;
     padding-top: 20px;
     padding-bottom: 10px;
 }
+.iframe{
+    width: 400px;
+    height: 250px; 
+}
 .arun{
     display: flex;
     margin-left: -10px;
 }
-.input1{
-margin: 0px 0px 0px 0px;
+.input label{
+    margin: 0px 0px 0px 11px;
+    font-size: 20px;
 }
-.input1 label{
-    
+.input1 input,select{
+    padding: 20px 60px 0px 0px;
+    margin: 6px 0px 0px 10px;
 }
-.input1 label{
-    margin: 0px 0px 0px 0px;
+.input2 label{
+    margin: 0px 0px 0px 11px;
+    font-size: 20px;
 }
-.input2{
-    margin: 0px 0px 0px 0px;
+.input2 input,select{
+    padding: 20px 60px 0px 0px;
+    margin: 6px 0px 0px 10px;
 }
-.input3{
-    margin: 0px 0px 0px 0px;
+.input3 label{
+font-size: 20px;
 }
-.input4{
-    margin: 0px 0px 0px 0px;
+.input3 input,select{
+    padding: 20px 304px 0px 0px;
+}
+.input4 label{
+font-size: 20px;
+}
+.input4 input,select{
+width: 472px;
+height: 170px;
 }
 .sand button{
    margin: 158px 0px 0px 218px;
