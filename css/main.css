@@ -464,6 +464,9 @@ display: flex;
     background-color: #f3f5fa;
     padding: 15px 0px 35px 0px;
 }
+.team a{
+    text-decoration: none;
+}
 .team .h2{
     border: 1px solid rgb(195, 195, 228);
     width: 5%;
@@ -577,6 +580,9 @@ display: flex;
     margin-left: 250px;
     padding-top: 10px;
 }
+.price{
+    background: #c7e1f72b;
+}
 .price h3{
     text-align: center;
     padding-top: 50px;
@@ -610,17 +616,21 @@ color: blue;
     margin-left: 60px;
     padding: 16px 55px 18px 37px;
     border: 1px solid #fff;
+    background: #fff;
 }
 .busi{
     border: 1px solid;
     margin-left: 60px;
     padding: 16px 55px 18px 37px;
+    border: 1px solid #fff;
+    background: #fff;
 }
 .plan{
     border: 1px solid;
     margin-left: 60px;
     padding: 16px 55px 18px 37px;
-    margin-right: ;
+    border: 1px solid #fff;
+    background: #fff;
 }
 .price h4{
     margin-left: 59px;
