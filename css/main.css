@@ -800,10 +800,18 @@ padding-bottom: 10px;
     margin-left: 100px;
     padding: 60px 30px 80px 27px;
 }
+.loca1 i{
+    border-radius: 20px;
+    background: #a5e7eb;
+    font-size: 25px;
+    color: #005aff;
+    border: 1px solid #a5e7eb;
+    padding: 0px 2px;
+}
 .loca2{
     border: 1px solid;
     margin-left: 90px;
-    padding: 60px 30px 80px 15px;
+    padding: 60px 30px 33px 15px;
 }
 .loca1 h4{
     font-size: 20px;
@@ -811,15 +819,15 @@ padding-bottom: 10px;
     padding-top: 20px;
     padding-bottom: 10px;
 }
-.iframe{
-    width: 400px;
-    height: 250px; 
+.iframe iframe{
+    width: 100%;
+    height: 220px; 
 }
 .arun{
     display: flex;
     margin-left: -10px;
 }
-.input label{
+.input1 label{
     margin: 0px 0px 0px 11px;
     font-size: 20px;
 }
@@ -844,16 +852,21 @@ font-size: 20px;
 .input4 label{
 font-size: 20px;
 }
-.input4 input,select{
-width: 472px;
-height: 170px;
+.input4 input{
+    width: 99%;
+    height: 230px;
 }
 .sand button{
-   margin: 158px 0px 0px 218px;
+   margin: 33px 0px 0px 148px;
     font-size: 23px;
     border-radius: 30px;
-    background-color: #37517e;
+    background-color: #48e2f2;
     color: #fff;
+    padding: 4px 4px 4px 4px;
+    border: 1px solid #48e2f2;
+}
+.sandh6{
+    border: 1px solid #005aff;
 }
 .join0{
 background-color: #f3f5fa;
